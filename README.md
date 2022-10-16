@@ -1,4 +1,0 @@
-# printf
-# printf
-# printf
-# printf

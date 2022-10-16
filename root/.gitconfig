@@ -1,0 +1,7 @@
+[user]
+	name = cliqueengagements
+	email = e037403.olawunmi@dlc.ui.edu.ng
+[core]
+	excludesfile = /root/.gitignore_global
+[credential]
+	helper = osxkeychain
